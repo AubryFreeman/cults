@@ -1,0 +1,273 @@
+[
+    {
+      "model": "cultsapi.cults",
+      "pk": 1,
+      "fields": {
+        "name": "The People's Temple",
+        "founder": "Jim Jones",
+        "founding_date": "1955-01-01",
+        "location": "Originally Indiana, later California, and finally Jonestown, Guyana",
+        "symbols": "The cross combined with socialist symbols",
+        "core_beliefs": "Combination of Christianity, socialism, and communal living",
+        "rituals_practices": "Communal meetings, faith healing, and revolutionary suicide drills",
+        "hierarchy": "Led by Jim Jones with a council of senior members",
+        "membership": "Thousands of members at its peak, diverse in terms of race and background",
+        "significant_events": "The mass suicide/murder at Jonestown in 1978",
+        "public_perception": "Initially seen as a progressive movement, later viewed as a dangerous cult",
+        "controversies": "Accusations of abuse, brainwashing, and mass suicide leading to the deaths of over 900 members"
+      }
+    },
+    {
+      "model": "cultsapi.cults",
+      "pk": 2,
+      "fields": {
+        "name": "The Manson Family",
+        "founder": "Charles Manson",
+        "founding_date": "1967-01-01",
+        "location": "California, USA",
+        "symbols": "Swastika and \"X\" carved into foreheads of some members",
+        "core_beliefs": "Apocalyptic race war (\"Helter Skelter\"), Charles Manson as the messianic figure",
+        "rituals_practices": "Drug use, orgies, and staged reenactments of the murders they intended to commit",
+        "hierarchy": "Led by Charles Manson, with a small group of loyal followers who carried out his orders",
+        "membership": "Dozens of core members, mainly young women, often recruited through manipulation and coercion",
+        "significant_events": "The Tate-LaBianca murders in 1969, resulting in the deaths of actress Sharon Tate and several others",
+        "public_perception": "Seen as a dangerous cult with a deranged leader, sensationalized by media",
+        "controversies": "Multiple brutal murders, manipulation of young followers, and Manson's use of psychological control"
+      }
+    },
+    {
+        "model": "cultsapi.cults",
+        "pk": 3,
+        "fields": {
+          "name": "Heaven's Gate",
+          "founder": "Marshall Applewhite and Bonnie Nettles",
+          "founding_date": "1974-01-01",
+          "location": "San Diego, California, USA",
+          "symbols": "UFO insignia, patches worn by members",
+          "core_beliefs": "Belief in extraterrestrial beings, that human bodies were vehicles for the soul, and that a spaceship would take them to a higher plane",
+          "rituals_practices": "Strict communal living, celibacy, and adherence to a strict regimen including a specific diet and dress code",
+          "hierarchy": "Led by Marshall Applewhite, known as \"Do\" after Nettles' death",
+          "membership": "About 39 core members at the time of their mass suicide",
+          "significant_events": "The mass suicide in March 1997, timed with the approach of the Hale-Bopp comet",
+          "public_perception": "Widely viewed as a bizarre and tragic cult, subject to intense media scrutiny",
+          "controversies": "The mass suicide, allegations of brainwashing, and extreme control over members' lives"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 4,
+        "fields": {
+          "name": "The Branch Davidians",
+          "founder": "Benjamin Roden (originally a splinter group from the Davidian movement founded by Victor Houteff)",
+          "founding_date": "1980-01-01",
+          "location": "Waco, Texas, USA",
+          "symbols": "The Davidic star, various Christian and Old Testament symbols",
+          "core_beliefs": "An apocalyptic interpretation of the Bible, belief in the imminent end of the world, and the role of their leader as a prophet",
+          "rituals_practices": "Bible study, communal living, and stockpiling of weapons in preparation for the apocalypse",
+          "hierarchy": "Initially led by Benjamin Roden, later by David Koresh who assumed control in the 1980s",
+          "membership": "About 130 members at the time of the Waco siege, diverse in terms of background and nationality",
+          "significant_events": "The Waco siege in 1993, resulting in the deaths of 76 members after a 51-day standoff with the FBI",
+          "public_perception": "Divisive; some view them as victims of government overreach, while others see them as a dangerous, armed cult",
+          "controversies": "Allegations of child abuse, illegal weapons possession, and the tragic outcome of the Waco siege"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 5,
+        "fields": {
+          "name": "NXIVM",
+          "founder": "Keith Raniere",
+          "founding_date": "1998-01-01",
+          "location": "Albany, New York, USA",
+          "symbols": "The NXIVM logo, various symbols used in branding ceremonies",
+          "core_beliefs": "Self-improvement through a series of executive success programs and personal development workshops",
+          "rituals_practices": "Intensive workshops, branding ceremonies for members of the secret subgroup DOS, and a hierarchical structure of mentors and mentees",
+          "hierarchy": "Led by Keith Raniere, with key lieutenants like Allison Mack and Clare Bronfman",
+          "membership": "Around 16,000 participants over the years, with a core group of about 50 to 60 dedicated members",
+          "significant_events": "The arrest and conviction of Keith Raniere in 2018 for sex trafficking, forced labor, and racketeering",
+          "public_perception": "Seen as a dangerous cult masquerading as a self-help organization, heavily scrutinized after revelations of abuse and manipulation",
+          "controversies": "Allegations of sex trafficking, forced labor, psychological manipulation, and financial exploitation"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 6,
+        "fields": {
+          "name": "Children of God (now known as The Family International)",
+          "founder": "David Berg",
+          "founding_date": "1968-01-01",
+          "location": "Originally Huntington Beach, California, later international communes",
+          "symbols": "Various Christian symbols and imagery, the group's literature known as \"Mo Letters\"",
+          "core_beliefs": "Christian evangelical beliefs mixed with free love, communal living, and unorthodox sexual practices",
+          "rituals_practices": "Communal living, proselytizing (\"flirty fishing\" where members used sex to attract converts), and adherence to Berg's teachings",
+          "hierarchy": "Led by David Berg (known as Moses David), followed by his wife Karen Zerby (Queen Maria) after his death",
+          "membership": "Thousands of members globally at its peak, including many children born into the group",
+          "significant_events": "Various legal investigations, high-profile defections, and public accusations by former members",
+          "public_perception": "Seen as a controversial and abusive cult, with numerous allegations of sexual abuse and exploitation",
+          "controversies": "Allegations of child sexual abuse, exploitation of members, and psychological manipulation"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 7,
+        "fields": {
+          "name": "Rajneesh Movement (followers known as Rajneeshees)",
+          "founder": "Bhagwan Shree Rajneesh (later known as Osho)",
+          "founding_date": "1970-01-01",
+          "location": "Originally Pune, India, later established Rajneeshpuram in Oregon, USA",
+          "symbols": "Mala beads with a locket containing Rajneesh's photo, orange/red clothing worn by followers",
+          "core_beliefs": "Combination of Eastern spirituality, meditation, and Western countercultural ideals; emphasis on personal enlightenment and free love",
+          "rituals_practices": "Dynamic meditation, communal living, and various therapies aimed at personal transformation",
+          "hierarchy": "Led by Rajneesh, with Ma Anand Sheela as his chief lieutenant during the Oregon period",
+          "membership": "Thousands of followers worldwide, with a significant number at the Oregon commune",
+          "significant_events": "The bioterror attack in 1984, poisoning 751 people in The Dalles, Oregon, and the subsequent legal battles and deportation of Rajneesh",
+          "public_perception": "Initially attracted interest for its unconventional practices, later viewed as dangerous and criminal after the bioterror attack and other illegal activities",
+          "controversies": "The bioterror attack, financial crimes, immigration fraud, and internal power struggles leading to violence and legal issues"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 8,
+        "fields": {
+          "name": "Love Has Won",
+          "founder": "Amy Carlson (known as \"Mother God\")",
+          "founding_date": "2006-01-01",
+          "location": "Colorado, USA; later Hawaii and California",
+          "symbols": "Various New Age and spiritual symbols, imagery of Amy Carlson as a divine figure",
+          "core_beliefs": "New Age spirituality, belief in Carlson as a divine being sent to save humanity, ascension doctrines",
+          "rituals_practices": "Daily livestreams, group prayers, and rituals focused on ascension and divine energy",
+          "hierarchy": "Led by Amy Carlson, with a core group of loyal followers known as the \"First Contact Ground Crew Team\"",
+          "membership": "A small, dedicated group of core members, with a broader online following",
+          "significant_events": "Death of Amy Carlson in 2021, subsequent legal and media scrutiny",
+          "public_perception": "Seen as a harmful and manipulative cult, subject to intense media scrutiny after Carlson's death",
+          "controversies": "Allegations of abuse, exploitation, and the bizarre circumstances surrounding Carlson's death and the handling of her body"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 9,
+        "fields": {
+          "name": "School of Prophets",
+          "founder": "Various leaders within the movement; commonly associated with televangelists and charismatic Christian preachers",
+          "founding_date": null,
+          "location": "Various locations, primarily in the USA",
+          "symbols": "Christian symbols such as crosses, prophetic imagery",
+          "core_beliefs": "Emphasis on prophetic gifts, modern-day prophecy, and charismatic Christian teachings",
+          "rituals_practices": "Prophetic training, intense prayer sessions, speaking in tongues, and spiritual warfare practices",
+          "hierarchy": "Led by charismatic leaders, often self-proclaimed prophets, within independent ministries",
+          "membership": "Varies widely; can range from small groups to large congregations",
+          "significant_events": "Various prophecies, some of which have garnered media attention and scrutiny",
+          "public_perception": "Mixed; respected by some within the charismatic movement, viewed skeptically by mainstream Christianity and the public",
+          "controversies": "Failed prophecies, financial exploitation, and accusations of spiritual manipulation"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 10,
+        "fields": {
+          "name": "Angels' Landing",
+          "founder": "Daniel Perez (formerly Lou Castro)",
+          "founding_date": "2000-01-01",
+          "location": "Sedgwick County, Kansas, USA",
+          "symbols": "No widely recognized symbols",
+          "core_beliefs": "Perez claimed to be an angel with supernatural powers, used to manipulate followers",
+          "rituals_practices": "Various practices dictated by Perez, often involving manipulation and control over followers",
+          "hierarchy": "Led by Daniel Perez, who exerted total control over the group",
+          "membership": "A small group of followers, primarily women and children",
+          "significant_events": "Arrest and conviction of Perez in 2015 for multiple crimes, including sexual abuse and murder",
+          "public_perception": "Viewed as a dangerous and exploitative cult, widely condemned after Perez's crimes were revealed",
+          "controversies": "Sexual abuse, financial exploitation, and the murder of a follower to collect life insurance money"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 11,
+        "fields": {
+          "name": "Aum Shinrikyo (now known as Aleph)",
+          "founder": "Shoko Asahara",
+          "founding_date": "1984-01-01",
+          "location": "Japan, with branches in Russia and other countries",
+          "symbols": "Various religious and mystical symbols, including the Aum symbol",
+          "core_beliefs": "Syncretic mix of Buddhism, Hinduism, apocalyptic Christianity, and Asahara's teachings; belief in an impending apocalypse",
+          "rituals_practices": "Intense meditation, yoga, ascetic practices, and, later, preparations for violent acts",
+          "hierarchy": "Led by Shoko Asahara, with a strict hierarchical structure and inner circle of loyalists",
+          "membership": "Thousands of members at its peak, including highly educated individuals",
+          "significant_events": "Tokyo subway sarin attack in 1995, killing 13 and injuring thousands",
+          "public_perception": "Seen as a terrorist organization, widely condemned for its violent acts",
+          "controversies": "Numerous violent acts, including the Tokyo subway attack, assassination attempts, and illegal activities"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 12,
+        "fields": {
+          "name": "Matamoros Cult (also known as the Narcosatanists)",
+          "founder": "Adolfo Constanzo",
+          "founding_date": "1980-01-01",
+          "location": "Matamoros, Tamaulipas, Mexico",
+          "symbols": "Various occult symbols, ritualistic items used in ceremonies",
+          "core_beliefs": "Syncretic mix of Palo Mayombe, Santeria, and elements of Aztec religion; belief in human sacrifice for supernatural protection and power",
+          "rituals_practices": "Human sacrifice, animal sacrifice, ritualistic ceremonies involving the use of blood and body parts",
+          "hierarchy": "Led by Adolfo Constanzo, with a core group of loyal followers",
+          "membership": "Small group, mainly consisting of Constanzo's criminal associates",
+          "significant_events": "Discovery of the cult and its practices in 1989 after the murder of American student Mark Kilroy",
+          "public_perception": "Seen as a brutal and satanic cult, widely condemned for its gruesome practices",
+          "controversies": "Human sacrifice, drug trafficking, and various violent crimes"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 13,
+        "fields": {
+          "name": "Order of the Solar Temple",
+          "founder": "Joseph Di Mambro and Luc Jouret",
+          "founding_date": "1984-01-01",
+          "location": "Switzerland, France, and Canada",
+          "symbols": "Solar and Templar imagery, robes, and ceremonial objects",
+          "core_beliefs": "Apocalyptic and esoteric beliefs, Templar revivalism, and preparation for spiritual transformation",
+          "rituals_practices": "Secret ceremonies, communal living, and preparation for the end times",
+          "hierarchy": "Led by Di Mambro and Jouret, with a strict hierarchical structure",
+          "membership": "Several hundred members across multiple countries",
+          "significant_events": "Mass murder-suicides in 1994 and 1995, resulting in the deaths of 74 members",
+          "public_perception": "Seen as a dangerous doomsday cult, heavily criticized after the mass deaths",
+          "controversies": "Mass murder-suicides, financial exploitation, and manipulative practices"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 14,
+        "fields": {
+          "name": "Russian Doomsday Cult (officially known as the True Russian Orthodox Church)",
+          "founder": "Pyotr Kuznetsov",
+          "founding_date": "2000-01-01",
+          "location": "Penza region, Russia",
+          "symbols": "Orthodox Christian symbols, eschatological imagery",
+          "core_beliefs": "Apocalyptic beliefs, strict adherence to an extreme interpretation of Orthodox Christianity",
+          "rituals_practices": "Isolated communal living, preparation for the end times, extreme ascetic practices",
+          "hierarchy": "Led by Pyotr Kuznetsov, who claimed to have divine visions",
+          "membership": "Small group of followers, numbering around 30-35 at its peak",
+          "significant_events": "Members went into a cave in 2007 to await the apocalypse, resulting in a standoff with authorities",
+          "public_perception": "Viewed as a fringe and fanatical group, with significant media attention during the cave standoff",
+          "controversies": "Psychological manipulation, poor living conditions, and extreme beliefs leading to a dangerous standoff"
+        }
+      },
+      {
+        "model": "cultsapi.cults",
+        "pk": 15,
+        "fields": {
+          "name": "Movement for the Restoration of the Ten Commandments of God",
+          "founder": "Credonia Mwerinde and Joseph Kibweteere",
+          "founding_date": "1989-01-01",
+          "location": "Uganda",
+          "symbols": "Christian imagery, particularly focusing on the Ten Commandments",
+          "core_beliefs": "Apocalyptic Catholicism, strict adherence to the Ten Commandments, belief in imminent end of the world",
+          "rituals_practices": "Strict communal living, intense prayer, and preparation for the apocalypse",
+          "hierarchy": "Led by Mwerinde and Kibweteere, with a rigid hierarchical structure",
+          "membership": "Several thousand members at its peak",
+          "significant_events": "Mass murder-suicide in 2000, resulting in the deaths of over 700 members",
+          "public_perception": "Seen as a dangerous and tragic doomsday cult, heavily criticized after the mass deaths",
+          "controversies": "Mass murder-suicide, financial exploitation, and extreme manipulation of followers"
+        }
+      }
+  ]
+  
