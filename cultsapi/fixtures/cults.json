@@ -1,6 +1,6 @@
 [
     {
-      "model": "cultsapi.cults",
+      "model": "cultsapi.cult",
       "pk": 1,
       "fields": {
         "name": "The People's Temple",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "model": "cultsapi.cults",
+      "model": "cultsapi.cult",
       "pk": 2,
       "fields": {
         "name": "The Manson Family",
@@ -36,7 +36,7 @@
       }
     },
     {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 3,
         "fields": {
           "name": "Heaven's Gate",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 4,
         "fields": {
           "name": "The Branch Davidians",
@@ -72,7 +72,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 5,
         "fields": {
           "name": "NXIVM",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 6,
         "fields": {
           "name": "Children of God (now known as The Family International)",
@@ -108,7 +108,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 7,
         "fields": {
           "name": "Rajneesh Movement (followers known as Rajneeshees)",
@@ -126,7 +126,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 8,
         "fields": {
           "name": "Love Has Won",
@@ -144,12 +144,12 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 9,
         "fields": {
           "name": "School of Prophets",
           "founder": "Various leaders within the movement; commonly associated with televangelists and charismatic Christian preachers",
-          "founding_date": null,
+          "founding_date": "1984-01-01",
           "location": "Various locations, primarily in the USA",
           "symbols": "Christian symbols such as crosses, prophetic imagery",
           "core_beliefs": "Emphasis on prophetic gifts, modern-day prophecy, and charismatic Christian teachings",
@@ -162,7 +162,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 10,
         "fields": {
           "name": "Angels' Landing",
@@ -180,7 +180,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 11,
         "fields": {
           "name": "Aum Shinrikyo (now known as Aleph)",
@@ -198,7 +198,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 12,
         "fields": {
           "name": "Matamoros Cult (also known as the Narcosatanists)",
@@ -216,7 +216,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 13,
         "fields": {
           "name": "Order of the Solar Temple",
@@ -234,7 +234,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 14,
         "fields": {
           "name": "Russian Doomsday Cult (officially known as the True Russian Orthodox Church)",
@@ -252,7 +252,7 @@
         }
       },
       {
-        "model": "cultsapi.cults",
+        "model": "cultsapi.cult",
         "pk": 15,
         "fields": {
           "name": "Movement for the Restoration of the Ten Commandments of God",

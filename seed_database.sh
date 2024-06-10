@@ -8,4 +8,5 @@ python3 manage.py migrate cultsapi
 python3 manage.py loaddata users
 python3 manage.py loaddata tokens
 python3 manage.py loaddata cults
+python3 manage.py loaddata leaders
 
